@@ -159,6 +159,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng9-tree-diagram"
+    }
+  },
+  "defaultProject": "ng9-tree-diagram",
+  "cli": {
+    "analytics": "8f522b89-5172-4188-b0a8-898d5d8511b1"
+  }
 }
